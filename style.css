@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    gap: 100px;
+    text-align: center;
+}
+.row{
+    display: flex;
+    text-align: center;
+}
+.wrapper{
+    display: flex;
+    text-align: center;
+}
+.margin{
+margin-bottom: 15px ;
+}
